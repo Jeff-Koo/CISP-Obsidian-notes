@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "7b1e671a2606d8e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c88612e2e6368f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43954980b124ba03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "安全評估標準/GB-T 8336.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GB-T 8336"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f240b6f257cfa468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec391f3da26b46d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60596db33e7b569e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c533843a165c6c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e667e494d173c2ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36d1698c25713208",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6d87132599bc860",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6accf40454bee0b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e293e823468ed2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cedcd4910c9efd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "安全評估標準/GB-T 8336.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GB-T 8336"
+            }
+          },
+          {
+            "id": "e81ef2afff670111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "安全評估標準/GB-T 8336.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GB-T 8336"
+            }
+          },
+          {
+            "id": "00234eab6c4171c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9f6b06996df6ef9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6343de06e587184f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "安全評估標準/GB-T 8336.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GB-T 8336"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "43954980b124ba03",
+  "lastOpenFiles": [
+    "安全評估標準/ISO15408.md",
+    "安全評估標準/GB-T 8336.md",
+    "安全評估標準/TCSEC.md",
+    "安全評估標準/ITSEC.md",
+    "安全評估標準/CC 2.0.md",
+    "安全評估標準",
+    "OSI",
+    "Welcome.md"
+  ]
+}
