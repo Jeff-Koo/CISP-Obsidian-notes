@@ -1,0 +1,8 @@
+# Obsidian — 本機 UI 狀態，不應納入版控
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Obsidian 快取與垃圾桶（若之後出現）
+.obsidian/cache/
+.trash/
