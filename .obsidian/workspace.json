@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安全評估標準/GB-T 8336.md",
+                "file": "安全評估標準/CC 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GB-T 8336"
+              "title": "CC 2.0"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安全評估標準/GB-T 8336.md",
+                "file": "安全評估標準/CC 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GB-T 8336"
+              "title": "Backlinks for CC 2.0"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安全評估標準/GB-T 8336.md",
+                "file": "安全評估標準/CC 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GB-T 8336"
+              "title": "Outgoing links from CC 2.0"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安全評估標準/GB-T 8336.md",
+                "file": "安全評估標準/CC 2.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GB-T 8336"
+              "title": "Outline of CC 2.0"
             }
           }
         ]
@@ -201,9 +201,9 @@
   },
   "active": "43954980b124ba03",
   "lastOpenFiles": [
-    "安全評估標準/ISO15408.md",
     "安全評估標準/GB-T 8336.md",
     "安全評估標準/TCSEC.md",
+    "安全評估標準/ISO15408.md",
     "安全評估標準/ITSEC.md",
     "安全評估標準/CC 2.0.md",
     "安全評估標準",
