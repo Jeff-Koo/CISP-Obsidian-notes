@@ -1,0 +1,1 @@
+Kerberos是一個使用對稱式加密與金鑰分發中心（KDC, Key Distribution Center）的網路身份驗證協定。
