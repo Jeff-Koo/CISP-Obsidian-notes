@@ -8,7 +8,7 @@ Information Security Management System
 規定：
 - 安全目標與策略
 - 誰來負責、預算多少
-- 整個安全體系如何持續運轉（PDCA）
+- 整個安全體系如何持續運轉（[[PDCA 循环模型]]）
 
 常見對應標準：ISO 27001、等保／關基框架、NIST
 

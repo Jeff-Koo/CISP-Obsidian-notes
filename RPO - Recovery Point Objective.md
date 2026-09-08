@@ -1,5 +1,4 @@
 恢復系統後 最多能丟失 **多少數據**
-- 可以為 0
-
-同步資料複製（Synchronous Replication）
-資料零遺失
+- 設置目標 **可以為 0** （資料零遺失）
+- 實務上也可以做到，成本較高而已
+	- 同步資料複製（Synchronous Replication）
