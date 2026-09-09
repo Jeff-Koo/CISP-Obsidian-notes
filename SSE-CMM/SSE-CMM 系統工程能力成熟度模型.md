@@ -63,7 +63,7 @@ Y-Axis: Capability Dimension (How well)
 > [!NOTE] 階層關係剖析
 > * **Level (Level 0 ~ 5)**：整體成熟度門檻。
 > * **CF (Common Features)**：Level 內部的**邏輯管理分類/目錄**（如：規劃、驗證、追蹤）。
-> * **GP (Generic Practices)**：跨所有 PA 通用的**硬性管理要求與評估標準**。
+> * **GP (Generic Practices)**：跨所有 PA **通用**的**硬性管理要求與評估標準**。
 
 ---
 

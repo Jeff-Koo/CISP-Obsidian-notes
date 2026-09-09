@@ -1,6 +1,12 @@
 Information Security Management System
 別名／教材常見寫法：**ISMI**（多為筆誤或特定教材縮寫，本質同 ISMS）
 
+ISMS 强调 “文档化” 管理
+- 一级方针
+- 二级程序
+- 三级手册
+- 四级记录
+
 ## 定位
 
 **頂層安全管理體系／框架（大老闆）**
