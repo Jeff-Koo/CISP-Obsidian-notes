@@ -25,3 +25,9 @@ CL 是一種與 ACL 剛好相反的實作機制。每一個使用者或系統行
 
 ---
 * **Tags**: `#sec/mechanism` `#access-control`
+
+## 相關
+- [[ACL (Access Control List 存取控制清單)]]
+- [[ACL vs CL]]
+- [[Access Control 存取控制總覽 (MOC)]]
+- [[RBAC 模型 Role-Based Access Control]]

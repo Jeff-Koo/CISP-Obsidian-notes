@@ -22,3 +22,9 @@ ACL 是一種用來實現存取控制的資料結構。每一個被保護的資�
 
 ---
 * **Tags**: `#sec/mechanism` `#access-control`
+
+## 相關
+- [[CL (Capability List 能力清單)]]
+- [[ACL vs CL]]
+- [[Access Control 存取控制總覽 (MOC)]]
+- [[Security Association]]

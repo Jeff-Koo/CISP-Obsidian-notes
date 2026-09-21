@@ -65,3 +65,8 @@
 ---
 
 * **Tags**: `#sec/policy` `#access-control` `#rbac`
+
+## 相關
+- [[DAC 自主存取控制]]
+- [[Access Control 存取控制總覽 (MOC)]]
+- [[RA - Registry Authority]]

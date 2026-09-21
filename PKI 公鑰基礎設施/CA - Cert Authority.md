@@ -16,3 +16,9 @@ The Chain of Trust:
 Root CA
 - Immediate CA
 	- Certification
+
+## 相關
+- [[RA - Registry Authority]]
+- [[PKI 公鑰基礎設施]]
+- [[MAC vs HASH vs Digital Signature]]
+- [[非對稱加密]]

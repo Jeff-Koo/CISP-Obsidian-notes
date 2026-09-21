@@ -14,3 +14,9 @@
         - **分类指南（Classification guidelines）**
         - **信息的标记和处理（Information labeling and handling）**
 
+## 相關
+- [[風險要素]]
+- [[信息安全 - 要素]]
+- [[風險評估實施]]
+- [[信息安全管理體系 - ISMS]]
+

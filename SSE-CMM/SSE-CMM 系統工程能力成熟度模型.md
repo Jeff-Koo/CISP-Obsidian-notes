@@ -52,8 +52,8 @@ Y-Axis: Capability Dimension (How well)
 ### 1. X 軸：過程維度 (Process Dimension) — *做什麼 (What)*
 * **目的**：定義系統安全工程的**業務範疇**。
 * **組成**：
-  * **[[Process Area (PA) | PA (過程域)]]**：共 21 個 PA（例如 `PA04 Assessment Security Risk`）。
-  * **[[Base Practice (BP) | BP (基本實踐)]]**：組成 PA 的最小工程單元，回答「要做哪些具體動作」。
+  * **[[Process Area (PA)]]**：共 21 個 PA（例如 `PA04 Assessment Security Risk`）。
+  * **[[Base Practice (BP)]]**：組成 PA 的最小工程單元，回答「要做哪些具體動作」。
 
 ### 2. Y 軸：能力維度 (Capability Dimension) — *做得有多好 (How Well)*
 * **目的**：衡量該 PA 的**管理成熟度與制度化深度**。
@@ -69,14 +69,7 @@ Y-Axis: Capability Dimension (How well)
 
 ## 📊 縱軸 Capabilities (Level 0 ~ 5)
 
-| Level | 名稱 | 關鍵特徵 | 包含的 CF (Common Features) |
-| :--- | :--- | :--- | :--- |
-| **Level 0** | **Non-Performed** | 未執行或成果不足 | 無 |
-| **Level 1** | **Performed Informally** | 英雄主義，完成 BP 但無制度 | CF 1.1 基本執行 (Base Practices) |
-| **Level 2** | **Planned & Tracked** | 有計畫、有資源、有監督與追蹤 | CF 2.1 規劃 / CF 2.2 規範 / CF 2.3 驗證 / CF 2.4 追蹤 |
-| **Level 3** | **Well-Defined** | 組織級標準 SOP，資產化管理 | CF 3.1 定義標準過程 / CF 3.2 執行標準過程 |
-| **Level 4** | **Quantitatively Controlled** | 量化與統計學管理過程品質 | CF 4.1 定量管理 / CF 4.2 定量評估 |
-| **Level 5** | **Continuously Improving** | 預防性改善、持續優化與創新 | CF 5.1 優化過程 / CF 5.2 預防缺陷 |
+見 [[SSE-CMM 能力級別]]
 
 ---
 
@@ -106,3 +99,9 @@ Y-Axis: Capability Dimension (How well)
 ## 🔗 相關筆記連結 (Links)
 
 * [[SSE-CMM PA04 評估安全風險範例]]
+* [[SSE-CMM 能力級別]]
+* [[Process Area (PA)]]
+* [[Base Practice (BP)]]
+* [[系統生命周期]]
+* [[BSI - Build Security In]]
+* [[風險管理]]

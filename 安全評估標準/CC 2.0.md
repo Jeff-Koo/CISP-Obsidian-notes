@@ -31,5 +31,12 @@ Common Criteria 2.0 版
 | **EAL 6**  | **Semi-formally Verified Design and Tested（半形式化核驗設計與測試級）**   | FC E6                  | 全系統半形式化分析，針對高風險環境的模組化結構控制。                          |
 | **EAL 7**  | **Formally Verified Design and Tested（形式化核驗設計與測試級）**         | ITSEC E6 / FC E7       | 最高等級，必須經過嚴格的**數學邏輯形式化證明（Formal Verification）**。     |
 
+## 相關
+- [[FC]]
+- [[ITSEC]]
+- [[TCSEC]]
+- [[常見分級]]
+- [[安全評估標準]]
+
 
 

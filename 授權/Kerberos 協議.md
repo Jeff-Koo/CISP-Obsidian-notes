@@ -43,5 +43,12 @@ Kerberos是一個使用對稱式加密與金鑰分發中心（KDC, Key Distribut
 > **CISP 考点联想：**
 > Kerberos 的核心优势就是利用 **TGT 实现了“一次登录，多次换票（ST）”**，从而避免了用户的明文密码在网络中频繁传输，也是 Windows Active Directory（AD 域）默认的集中身份认证协议。
 
+## 相關
+- [[對稱加密]]
+- [[Windows 系統用戶]]
+- [[Radius 協議]]
+- [[TACACS+ 協議]]
+- [[PKI 公鑰基礎設施]]
+
 
 

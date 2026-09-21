@@ -11,3 +11,10 @@
 - **使用對象（Verifier）：Client / 驗證端**
     - 當 Client（如瀏覽器、VPN 伺服器）驗證一張證書時，會讀取證書內部的 **CDP（CRL Distribution Point，CRL 發布點）** 欄位 URL，下載並檢查該證書是否已被列入黑名單。
 
+## 相關
+- [[CA - Cert Authority]]
+- [[LDAP 證書庫]]
+- [[VPN]]
+- [[MAC vs HASH vs Digital Signature]]
+- [[PKI 公鑰基礎設施]]
+

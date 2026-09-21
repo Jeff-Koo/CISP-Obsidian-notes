@@ -7,6 +7,13 @@
 
 `T` refers to `tunnel`
 
+## 相關
+- [[OSI 七層 與 TCPIP 四層]]
+- [[IPsec]]
+- [[IKE 協議]]
+- [[IPsec 工作模式]]
+- [[AH vs ESP]]
+
 
 ---
 ## 近代 VPN (out of syllabus)

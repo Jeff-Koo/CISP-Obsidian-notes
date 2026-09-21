@@ -39,4 +39,11 @@ graph TD
     style EE fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px
     style LDAP fill:#d5e8d4,stroke:#82b366,stroke-width:2px
 ```
+
+## 相關
+- [[CA - Cert Authority]]
+- [[LDAP 證書庫]]
+- [[CRL - 證書黑名單]]
+- [[PKI 公鑰基礎設施]]
+- [[RBAC 模型 Role-Based Access Control]]
     
