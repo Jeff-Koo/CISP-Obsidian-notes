@@ -5,11 +5,11 @@
 | **L2F**  | Layer 2    | UDP (1701)       | 無                 | **無**              | ❌ 已廢棄    |
 | **L2TP** | Layer 2    | UDP (1701)       | **無** (需搭配 IPsec) | **高** (搭配 IPsec 時) | ⚠️ 逐漸被替代 |
 
-**T**: for tunnel
+`T` refers to `tunnel`
 
 
 ---
-## 近代 VPN
+## 近代 VPN (out of syllabus)
 以上的 Layer2 Protocol VPN 近代都已經不使用了。
 
 | **現代 VPN 協定**           | **所屬層級**          | **運作機制與特點**                                                                       | **現代應用場景**                                          |
