@@ -1,4 +1,10 @@
 Common Criteria 2.0 版
+體現了
+- 結構的開放性
+- 表達方式的通用性
+- 實用性
+
+並 **沒有** 提出安全功能和保證級別分離的概念，此概念是 [[ITSEC]] 所提出的。 
 
 #### **第一部分：簡介與一般模型（Part 1: Introduction and General Model）**
 - **TOE（Target of Evaluation，評估目標）**：

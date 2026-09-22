@@ -3,6 +3,7 @@ Information Technology **Security** Evaluation Criteria
 目的：
 - 改進 [[TCSEC]]  橙皮書只關注 機密性（Confidentiality）的問題
 - 提出 CIA （Confidentiality, Integrity, Availability)
+- 提出 安全功能 和 保證級別 分離
 - 安全概念細分成 **10級 安全功能類別（Functionality Class, F）** 与 **6 級安全保證級別（Evaluation Level, E）
 
 

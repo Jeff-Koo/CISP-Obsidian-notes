@@ -6,7 +6,7 @@
 
 1. **安全策略（Security Policy）**
 * 系統必須明確定義訪問控制規則，明確說明哪些主體（User/Process）對哪些客體（File/Resource）擁有何種操作權限。
-* 支持**自主訪問控制（DAC）**和**強制訪問控制（MAC）**。
+* 支持 [[DAC 自主存取控制]] 和 [[MAC 強制存取控制]]。
 
 
 2. **可標記性 / 責任認定（Accountability）**
