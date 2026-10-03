@@ -5,5 +5,7 @@
 ## 相關
 - [[RPO - Recovery Point Objective]]
 - [[備援中心 - Disaster Recovery Site]]
+- [[業務連續性計劃 (BCP)]]
+- [[業務連續性]]
 - [[PDCERF]]
 - [[信息安全應急響應]]

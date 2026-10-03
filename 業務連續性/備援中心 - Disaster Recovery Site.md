@@ -15,5 +15,7 @@
 ## 相關
 - [[RTO - Recovery Time Objective]]
 - [[RPO - Recovery Point Objective]]
+- [[業務連續性計劃 (BCP)]]
+- [[業務連續性]]
 - [[信息安全應急響應]]
 - [[PDCERF]]

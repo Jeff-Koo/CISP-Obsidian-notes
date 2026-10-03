@@ -6,4 +6,6 @@
 ## 相關
 - [[RTO - Recovery Time Objective]]
 - [[備援中心 - Disaster Recovery Site]]
+- [[業務連續性計劃 (BCP)]]
+- [[業務連續性]]
 - [[PDCERF]]

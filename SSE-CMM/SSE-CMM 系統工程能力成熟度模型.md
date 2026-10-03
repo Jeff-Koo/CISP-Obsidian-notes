@@ -9,7 +9,6 @@ aliases:
   - ISO 21827
 date_created: 2026-09-09
 ---
-
 # SSE-CMM (System Security Engineering CMM)
 
 > **核心定義**：SSE-CMM（ISO/IEC 21827）是一個用於衡量「系統安全工程」能力成熟度的**二維正交模型**（Two-dimensional orthogonal model）。
