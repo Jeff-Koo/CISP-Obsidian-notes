@@ -34,4 +34,5 @@ graph TD
 ## 相關
 - [[Access Control 存取控制總覽 (MOC)]]
 - [[Kerberos 協議]]
+- [[Linux 帳號]]
 - [[Linux Setting files]]

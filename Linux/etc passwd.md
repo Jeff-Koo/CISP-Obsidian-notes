@@ -24,7 +24,7 @@ Linux 系统中存储用户账户基本信息的配置文件。
 - **示例**：`0`
 - **含义**：Linux 内核识别和管理用户的数字 ID。
 - **约定分布规则**：
-    - **`0`**：超级管理员（Root），拥有系统最高特权。
+    - **`0`**：超级管理员（Root），拥有系统最高特权。详见 [[Linux 帳號]]。
     - **`1 ~ 999`**：系统伪账户（System Users），供系统服务（如 `nobody`, `daemon`, `nginx` 等）后台运行使用，通常不允许登录。
     - **`1000+`**：普通用户账号（如手动使用 `useradd` 创建的个人账号）。
 
@@ -62,6 +62,7 @@ Linux 系统中存储用户账户基本信息的配置文件。
 $$\underbrace{\texttt{root}}_{\text{1. 用户名}} : \underbrace{\texttt{x}}_{\text{2. 密码占位}} : \underbrace{\texttt{0}}_{\text{3. UID}} : \underbrace{\texttt{0}}_{\text{4. GID}} : \underbrace{\texttt{root}}_{\text{5. 描述注释}} : \underbrace{\texttt{/root}}_{\text{6. 家目录}} : \underbrace{\texttt{/bin/bash}}_{\text{7. 登录 Shell}}$$
 
 ## 相關
+- [[Linux 帳號]]
 - [[etc shadow]]
 - [[pwconv]]
 - [[Linux Setting files]]

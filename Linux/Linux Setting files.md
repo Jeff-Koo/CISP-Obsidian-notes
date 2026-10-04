@@ -4,6 +4,8 @@
 - [[etc shadow]]（`/etc/shadow`）
 - [[pwconv]]
 
+帳號／UID 體系：[[Linux 帳號]]
+
 ### CISP 高频考点与安全加固逻辑
 
 1. **权限控制**：
@@ -16,5 +18,6 @@
 3. **未同步修复** → [[pwconv]]
 
 ## 相關
+- [[Linux 帳號]]
 - [[Windows 系統用戶]]
 - [[MAC vs HASH vs Digital Signature]]

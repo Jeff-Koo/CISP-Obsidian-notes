@@ -8,3 +8,5 @@
 ## 相關
 - [[etc passwd]]
 - [[etc shadow]]
+- [[Linux Setting files]]
+- [[Linux 帳號]]

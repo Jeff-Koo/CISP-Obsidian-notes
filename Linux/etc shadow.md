@@ -70,6 +70,7 @@ admin:$6$qx8vN9z1$7mKzLp...:19723:0:90:7:14::
 $$\underbrace{\texttt{admin}}_{\text{1. 用户名}} : \underbrace{\texttt{\$6\$qx8v...}}_{\text{2. 加密密码}} : \underbrace{\texttt{19723}}_{\text{3. 上次修改日}} : \underbrace{\texttt{0}}_{\text{4. 最小修改间隔}} : \underbrace{\texttt{90}}_{\text{5. 最大有效期}} : \underbrace{\texttt{7}}_{\text{6. 告警天数}} : \underbrace{\texttt{14}}_{\text{7. 宽限锁定天数}} : \underbrace{\texttt{}}_{\text{8. 账号失效日}} : \underbrace{\texttt{}}_{\text{9. 保留字段}}$$
 
 ## 相關
+- [[Linux 帳號]]
 - [[etc passwd]]
 - [[pwconv]]
 - [[MAC vs HASH vs Digital Signature]]
